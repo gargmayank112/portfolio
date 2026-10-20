@@ -1,35 +1,25 @@
-Hi, I'm Mayank Garg 👋
 
-Data Analytics | Data Engineering | Business Intelligence
+# Hi, I'm Mayank Garg 👋
 
-Welcome to my portfolio! I have experience in reporting architecture, business analytics, KPI development, and dashboard automation. I'm expanding my technical skills through hands-on projects in data engineering, cloud data warehousing, and AI.
+### Data Analytics | Data Engineering | Business Intelligence
 
-🛠️ Technical Skills
+Welcome to my portfolio! I have experience in reporting architecture, business analytics, and dashboard automation.
 
-Programming: Python, SQL, Pandas
+## 🛠️ Technical Skills
 
-Data Engineering: ETL/ELT, REST APIs, incremental data loading, data validation
+- **Programming:** Python, SQL, Pandas
+- **Data Engineering:** ETL/ELT, REST APIs, Incremental Loading
+- **Data Warehousing:** Snowflake, dbt
+- **BI Tools:** Tableau, ThoughtSpot, Power BI
 
-Data Warehousing: Snowflake, dbt
+## 🚀 Projects
 
-Business Intelligence: Tableau, ThoughtSpot, Power BI
+### 1. YouTube Data Pipeline
 
-Tools: Git, GitHub, Excel
+**Tech Stack:** Python, YouTube Data API, Pandas, Snowflake, SQL
 
-🚀 Projects
+- Built a pipeline to extract YouTube video metadata and engagement statistics.
+- Loaded data into Snowflake using staging tables.
+- Implemented incremental loading with SQL `MERGE`.
 
-1. YouTube Data Pipeline
-
-Tech Stack: Python, YouTube Data API, Pandas, Snowflake, SQL
-
-Built an end-to-end pipeline to extract YouTube video metadata and engagement statistics and load the data into Snowflake.
-
-Extracts video data through API requests and pagination.
-
-Uses Pandas to process and prepare data.
-
-Loads records into Snowflake staging tables.
-
-Implements incremental loading using SQL MERGE to update existing records and insert new records.
-
-🔗 View Source Code on GitHub
+[View Project on GitHub](https://github.com/gargmayank112/youtube-data-pipeline)
